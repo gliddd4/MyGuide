@@ -1,7 +1,7 @@
 # Welcome to MyGuide!
 
 ## Where can I download enterprise certificates?
--https://github.com/gliddd4/Sideloading-Certificates
+- https://github.com/gliddd4/Sideloading-Certificates
 ## How can I create my own IPA repo?
 - Make a new GitHub repository
 - Download the template ipa repo in the Downloads folder
@@ -14,4 +14,5 @@
 - https://raw.githubusercontent.com/gliddd4/MyGuide/refs/heads/main/gliddd4%20repo/app.json
 ## How can I contribute to MyGuide?
 - Make a pull request
+
 
